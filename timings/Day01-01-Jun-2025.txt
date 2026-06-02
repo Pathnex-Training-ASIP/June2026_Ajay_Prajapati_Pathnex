@@ -7,5 +7,6 @@
 
 ## Tomorrow's Task
 Task 1 - Solve issue related to AWS account.
-Task 2 - Need to pratice Linux commands after the lecture and prepare own notes and overviwe of the lecture.
+Task 2 - Need to pratice Linux commands after the lecture and overviwe of the lecture.
 Task 3 - Practice Git commands again.
+Taks 4 - Prepare own notes for which commands I have practiced
